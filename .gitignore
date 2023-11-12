@@ -1,0 +1,13 @@
+/.history
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
